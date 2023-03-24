@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useContext_todo_app/static/css/main.bdf1f7ad.css",
+    "main.js": "/useContext_todo_app/static/js/main.553ac6fe.js",
+    "index.html": "/useContext_todo_app/index.html",
+    "main.bdf1f7ad.css.map": "/useContext_todo_app/static/css/main.bdf1f7ad.css.map",
+    "main.553ac6fe.js.map": "/useContext_todo_app/static/js/main.553ac6fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdf1f7ad.css",
+    "static/js/main.553ac6fe.js"
+  ]
+}
